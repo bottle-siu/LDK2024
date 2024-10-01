@@ -1,0 +1,11 @@
+ls /boot
+config-6.8.0-45-generic
+grub
+initrd.img
+initrd.img-6.8.0-45-generic
+initrd.img.old
+lost+found
+System.map-6.8.0-45-generic
+vmlinuz
+vmlinuz-6.8.0-45-generic
+vmlinuz.old

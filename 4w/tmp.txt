@@ -1,0 +1,7 @@
+ls /tmp
+snap-private-tmp
+systemd-private-fb8e6774b01742e185b7d3d32cc08bfa-ModemManager.service-9036e9
+systemd-private-fb8e6774b01742e185b7d3d32cc08bfa-polkit.service-31zwJr
+systemd-private-fb8e6774b01742e185b7d3d32cc08bfa-systemd-logind.service-lCORWA
+systemd-private-fb8e6774b01742e185b7d3d32cc08bfa-systemd-resolved.service-wR5GOz
+systemd-private-fb8e6774b01742e185b7d3d32cc08bfa-systemd-timesyncd.service-zMZOI7
